@@ -1,0 +1,10 @@
+# If you need support please contact me on discord ( ch4rles.exe )
+
+night-skip-requirement:
+  type: "percentage" # Can be "percentage" or "number"
+  value: 10          # Percentage of players required if type is "percentage", or number of players if type is "number"
+  # Example: If 'type' is 'percentage' and 'value' is '10' and 10 people are on the server, one person must be attempting to sleep for the night to skip.
+  # Example: If 'type' is 'number' and 'value' is '1' then regardless of the total numbers of players on the server, only one person needs to sleep to skip the night.
+
+# Enabling this will make it so you need the permission csleep.wake to force people to wake up.
+wake-requires-permission: false

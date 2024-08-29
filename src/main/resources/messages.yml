@@ -1,0 +1,15 @@
+# This file contains all the necessary message configs that you are able to change.
+# Placeholders:
+# %player% - Defines the target player.
+
+
+messages:
+  noPermission: "&cYou do not have permission to use this command."
+  usageWake: "&cUsage: /wake <player>"
+  playerNotFound: "&cPlayer not found."
+  playerWokeUp: "&aYou woke up %player%."
+  playerNotInBed: "&cPlayer is not in bed."
+  playerSleeping: "&e%player% is sleeping. &a[Click here to tell them to get up]"
+  nightSkipped: "&aThe night has been skipped!"
+  kickedOutOfBed: "&cYou have been kicked out of bed!"
+  stoppingNightSkip: "&cNight skipping has been stopped because %player% was kicked out of bed."

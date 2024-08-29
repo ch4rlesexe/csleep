@@ -1,0 +1,12 @@
+name: CSleep
+version: '1.0-SNAPSHOT'
+main: org.charliegpt.cSleep.CSleep
+api-version: '1.21'
+commands:
+  wake:
+    description: "Wake up a player from bed."
+    usage: "/wake <player>"
+    aliases: [wakeup]
+  csleep:
+    description: "Reload CSleep configuration files."
+    usage: "/csleep reload"
