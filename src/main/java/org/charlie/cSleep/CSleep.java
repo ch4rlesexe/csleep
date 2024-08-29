@@ -1,4 +1,4 @@
-package org.charliegpt.cSleep;
+package org.charlie.cSleep;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;

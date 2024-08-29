@@ -1,4 +1,4 @@
-org\charliegpt\cSleep\WakeCommand.class
-org\charliegpt\cSleep\CSleep.class
-org\charliegpt\cSleep\ReloadCommand.class
-org\charliegpt\cSleep\SleepListener.class
+org\charlie\cSleep\ReloadCommand.class
+org\charlie\cSleep\SleepListener.class
+org\charlie\cSleep\CSleep.class
+org\charlie\cSleep\WakeCommand.class

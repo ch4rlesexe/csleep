@@ -1,6 +1,6 @@
 name: CSleep
 version: '1.0-SNAPSHOT'
-main: org.charliegpt.cSleep.CSleep
+main: org.charlie.cSleep.CSleep
 api-version: '1.21'
 commands:
   wake:

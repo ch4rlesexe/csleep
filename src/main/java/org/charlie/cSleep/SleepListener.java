@@ -1,4 +1,4 @@
-package org.charliegpt.cSleep;
+package org.charlie.cSleep;
 
 import net.md_5.bungee.api.chat.ClickEvent;
 import net.md_5.bungee.api.chat.TextComponent;
