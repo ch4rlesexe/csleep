@@ -10,3 +10,4 @@ commands:
   csleep:
     description: "Reload CSleep configuration files."
     usage: "/csleep reload"
+    default: op
